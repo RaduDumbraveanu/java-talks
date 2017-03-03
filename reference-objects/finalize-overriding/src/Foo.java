@@ -3,11 +3,11 @@
  */
 public class Foo {
     public Foo() {
-        System.out.println("Object was created");
+        System.out.println("The object is about to be created");
     }
 
     @Override
     protected void finalize() throws Throwable {
-        System.out.println("Object will be destroyed at the next garbage collection cycle");
+        System.out.println("The object was collected and will be destroyed at the next garbage collection cycle");
     }
 }
