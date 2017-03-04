@@ -7,7 +7,7 @@ public class ExampleApp {
 
         foo = null;
 
-        for (int i=0; i < 1; i++) {
+        for (int i=0; i < 2; i++) {
             System.gc();
 
             try {
@@ -15,8 +15,8 @@ public class ExampleApp {
             } catch (InterruptedException e) {
                 Thread.currentThread().interrupt();
             }
-        }
 
-        Foo.instance.saySomething();
+            Foo.instance.saySomething();
+        }
     }
 }
