@@ -1,0 +1,18 @@
+
+hsquid:S1192"GDefine a constant instead of duplicating this literal "foobar" 3 times.(„òÚÚþÿÿÿÿ8‚¢Á†°+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8‚¢Á†°+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(€÷²Ûÿÿÿÿÿ8åù‰†°+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÞäÞ*8ÎïÚ†°+
+Asquid:S2129" Remove this "String" constructor(¶«Ž³þÿÿÿÿ8Â¤Ú†°+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ú€¶Ôþÿÿÿÿ8™í€†°+
+1squid:S1220""Move this file to a named package.
+<squid:S2129" Remove this "String" constructor(Ûßåñ8§ëÿ…°+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(éèØ·úÿÿÿÿ8Â´ˆ†°+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¹Æ´‡8î‡†°+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(–ÛØ¹øÿÿÿÿ8ÈûÔ†°+
