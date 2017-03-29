@@ -34,6 +34,8 @@ Each time we use `new String(...)` constructor, VM will create a new string obje
 See : http://www.journaldev.com/797/what-is-java-string-pool
 See : string-interning example
 
+3. special constructors
+
 
 ### Concatenation
 
