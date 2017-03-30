@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stringutils-abbreviate.iml" filepath="$PROJECT_DIR$/stringutils-abbreviate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/truncation.iml" filepath="$PROJECT_DIR$/truncation.iml" />
     </modules>
   </component>
 </project>
